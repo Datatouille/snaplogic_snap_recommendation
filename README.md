@@ -17,3 +17,8 @@ Performance is evaluated by top-5 accuracy:
 <img src='images/result.png'/>
 
 In this workshop, we provide `model_tree.ipynb` as tutorial for tree-based models and `model_deep.ipynb` for deep learning model similar to the paper [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf).
+
+## Collaborators
+* [JumpThanawut](https://github.com/orgs/Datatouille/people/JumpThanawut) for sharing and preparing the dataset, as well as authoring tree-based models
+* [witchapong](https://github.com/witchapong) for authoring deep learning models
+* [cstorm125](https://github.com/cstorm125) for editing tree-based and deep learning model notebooks
