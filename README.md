@@ -4,6 +4,8 @@ Recommending the right snap at the right time for SnapLogic users
 
 This workshop studies how to create a recommendation system with tree-based and deep learning model. The dataset contains 25,331 pipelines used internally at [SnapLogic](https://www.snaplogic.com/). Each pipeline contains a series of **snaps**--a block of codes that perform various functions such as data ingestion, manipulation, and even machine learning. No pipeline in this dataset belongs to SnapLogic customers. 
 
+[Slides by SnapLogic](https://drive.google.com/file/d/1DapNw9mjCa4oPE-x25ml9P-z7P09NWON/view)
+
 SnapLogic is one of the world's leading data integration companies based in San Mateo, CA. They provide excellent [machine learning use cases](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/474677262/Machine%2BLearning%2BUse%2BCases) using their platform in [this repository](https://github.com/JumpThanawut/SnapLogic-Data-Science).
 
 <img src='images/pipeline.png'/>
